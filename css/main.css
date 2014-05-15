@@ -1,0 +1,12 @@
+#bitzemusik {
+	
+}
+
+#bitzemusik .hud {
+	position: absolute;
+	background-color: white;
+	cursor: pointer;
+	text-align: center;
+	width: 25px;
+	height: 25px;
+}
